@@ -1,0 +1,4 @@
+BUILD = ../build
+TEST = ../test
+LIB = ../lib
+SRC = ../src
